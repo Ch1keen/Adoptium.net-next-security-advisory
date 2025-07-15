@@ -106,3 +106,4 @@ The next patch: https://github.com/adoptium/adoptium.net/commit/5048e0d67c3cc8e1
 * 2025.07.03: The vulnerability was acknowledged.
 * 2025.07.03: Github assigned GHSA-wfq4-6v32-jrhq.
 * 2025.07.03: The maintainer fixed the vulnerability.
+* 2025.07.15: Public Disclosure.
