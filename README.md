@@ -1,4 +1,4 @@
-# Open Redirect on Adoptium.net
+# Open Redirect in Adoptium.net
 
 Affected Version: Before commit 1f9753c25fccfc4ee37b63476cce31e46220ac77 (Committed at 2025.07.03)
 
